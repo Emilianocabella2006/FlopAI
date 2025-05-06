@@ -7,4 +7,5 @@ Python 3.8 o superior.
 
 Como usar: Ejecuta el archivo FlopAI.py 
 Escribe un prompt en el campo de texto.
+
 Presiona "Procesar" y FlopAI te dará una respuesta generada por GPT-2.
